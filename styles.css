@@ -358,4 +358,8 @@ p {
     .aside-container h1 {
         font-size: 2.5rem;
     }
+
+    .aside-container aside {
+        padding-bottom: 0;
+    }
 }
